@@ -1,0 +1,3 @@
+# aliases.rc
+
+alias gtkwave="flatpak run io.github.gtkwave.GTKWave"

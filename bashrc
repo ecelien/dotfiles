@@ -24,13 +24,3 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 
-#if ! test -f $TOOLBOX_PATH ; then
-
-#fi
-
-alias gtkwave="flatpak run io.github.gtkwave.GTKWave"
-
-
-### bling.sh source start
-test -f /usr/share/ublue-os/bluefin-cli/bling.sh && source /usr/share/ublue-os/bluefin-cli/bling.sh
-### bling.sh source end
